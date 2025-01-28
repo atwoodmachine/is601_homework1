@@ -1,3 +1,5 @@
 # Homework One
 ## Message
-Hello! This is the first edit to the readme file, with changes done on a branch!
+Hello! I am Seniz Ozdemir, and this is homework 1!
+
+Here, I've edited the readme file to demonstrate merging with a pull request on github!
